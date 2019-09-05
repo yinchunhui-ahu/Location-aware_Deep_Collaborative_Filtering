@@ -7,7 +7,7 @@ Yiwen Zhang, Chunhui Yin, Qilin Wu*, Qiang He and Haibin Zhu. [Location-aware De
 
 Developer: Chun-hui Yin
 
-Affiliate: [Big Data and Cloud Service Lab of Anhui University](http://bigdata.ahu.edu.cn)
+Affiliate: [Big Data and Cloud Service Lab](http://bigdata.ahu.edu.cn), Anhui University
 
 Last updated: 2019/9/5
 
