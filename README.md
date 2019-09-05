@@ -1,7 +1,8 @@
 
 # Location-aware Deep Collaborative Filtering
 
-Introduction: This is the implementation of our paper "Location-aware Deep Collaborative Filtering for Service Recommendation"
+Introduction: This is the implementation of our paper:
+Yiwen Zhang, Chunhui Yin, Qilin Wu, qiang He, Haibing Zhu. [Location-aware Deep Collaborative Filtering for Service Recommendation](https://ieeexplore.ieee.org/document/8805172) IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2019.
 
 Author: Chun-hui Yin
 
