@@ -3,13 +3,13 @@
 
 This is the implementation of our paper:
 
-Yiwen Zhang, Chunhui Yin, Qilin Wu*, Qiang He and Haibin Zhu. [Location-aware Deep Collaborative Filtering for Service Recommendation](https://ieeexplore.ieee.org/document/8805172), IEEE Transactions on Systems, Man, and Cybernetics: Systems. 10.1109/TSMC.2019.2931723, 2019.
+Yiwen Zhang, Chunhui Yin, Qilin Wu*, Qiang He and Haibin Zhu. [Location-aware Deep Collaborative Filtering for Service Recommendation](https://ieeexplore.ieee.org/document/8805172), IEEE Transactions on Systems, Man, and Cybernetics: Systems. 10.1109/TSMC.2019.2931723, 2019. (SCI)
 
 Developer: Chun-hui Yin
 
 Affiliate: [Big Data and Cloud Service Lab](http://bigdata.ahu.edu.cn), Anhui University
 
-Last updated: 2019/9/5
+Last updated: 2019/10/05
 
 **Please cite our paper if you use our codes. Thanks!** 
 
